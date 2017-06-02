@@ -25,9 +25,9 @@ The dataset includes the following files:
 
 - 'CodeBook.md' - a description of the data set
 
-- 'solution.csv': the final data
+- 'solution.csv' - the final data
 
-- 'run_analysis': the r script
+- 'run_analysis' - the r script
 
 Notes: 
 ======
